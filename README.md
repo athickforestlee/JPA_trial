@@ -15,7 +15,7 @@ This is about Ordinary Simple Board.
 
 <img width="30%" src="https://user-images.githubusercontent.com/82954812/165143925-781f0223-d3be-46bc-8a20-3ce75401b54c.png"/>
 <ol>
-  <li>최하단 텍스트박스에 내용을 입력하고 검색 버튼을 누르면 해당하는 게시물만 표기됩니다.</li>
+  <li>최하단 텍스트박스에 내용을 입력하고 검색 버튼을 누르면 해당하는 단어를 포함한 게시물만 표기됩니다.</li>
 </ol>
 <br><br><br><br>
 
