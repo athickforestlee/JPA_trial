@@ -1,5 +1,7 @@
 # JPA_trial_board
 
+[JAVA, Thymeleaf, Springboot, JPA]
+
 This is about Ordinary Simple Board.
 
 <h2>스프링부트를 이용한 간단 게시판 입니다.</h2>
