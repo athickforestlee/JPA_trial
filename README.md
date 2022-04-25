@@ -32,7 +32,7 @@ This is about Ordinary Simple Board.
 </ol>
 <br><br><br><br>
 
-<img width="30%" src="https://user-images.githubusercontent.com/82954812/165143017-f3e286cd-51dc-4f5c-9f4e-b0d5d89a5ca8.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/82954812/165143017-f3e286cd-51dc-4f5c-9f4e-b0d5d89a5ca8.png"/>
 <ol>
   <li></li>
   <li></li>
