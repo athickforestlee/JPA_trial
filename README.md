@@ -4,14 +4,51 @@ This is about Ordinary Simple Board.
 
 <h2>스프링부트를 이용한 간단 게시판 입니다.</h2>
 
-<img width="100%" src="https://user-images.githubusercontent.com/82954812/145417541-b688e83d-2de5-47c8-a9b5-9f6f4878b73f.PNG"/>
+<img width="100%" src="https://user-images.githubusercontent.com/82954812/165142984-5b793008-b1bd-4490-853e-522feb1cc50b.png"/>
 <ol>
-  <li>개인정보 화면입니다. 상단의 텍스트박스에 학생들의 기본 정보를 입력하여 조회버튼을 누르면 데이터그리드에 표시됩니다.</li>
-  <li>조회기능은 학생번호로만 혹은 성명으로만으로 조절 가능하고, 학생번호의 일부 혹은 성명의 일부만 입력하여도 검색 조회 가능합니다.</li>
-  <li>학생종합정보와 보호자정보의 텍스트박스들을 입력하고 추가버튼을 누르면 최하단 데이터그리드에 바로 나타납니다.</li>
-  <li>데이터그리드상의 학생 한명을 클릭하면 해당 학생이 선택되어 학생종합정보와 보호자정보에 저장된 정보가 나타납니다.</li>
-  <li>선택된 학생의 정보를 변경하고 저장 버튼을 누르면 해당 학생의 저장된 정보가 변경되어 저장됩니다.</li>
-  <li>추가 혹은 저장버튼을 누를때, 학생번호가 다른 특정 학생번호와 중복되거나 11자를 넘기면 오류메시지가 출력됩니다.</li>
-  <li>학생이 선택된 상태에서 삭제 버튼을 누르면 데이터그리드에 있던 해당 학생의 모든 정보가 사라집니다.</li>
+  <li>게시판 기본 화면입니다.</li>
+  <li>하나의 페이지당 10개의 게시물이 리스트 됩니다.</li>
+  <li>제목을 클릭하면 해당 게시물 상세정보로 이동합니다.</li>
+  <li>하단 번호를 클릭하면 다른 페이지로 이동합니다.</li>
+</ol>
+<br><br><br><br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/82954812/165143925-781f0223-d3be-46bc-8a20-3ce75401b54c.png"/>
+<ol>
+  <li>최하단 텍스트박스에 내용을 입력하고 검색 버튼을 누르면 해당하는 게시물만 표기됩니다.</li>
+</ol>
+<br><br><br><br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/82954812/165143928-68126225-3fc6-430d-8d7f-f20b4b855e4f.png"/>
+<ol>
+  <li>검색한 내용에 대한 2번 페이지로 이동합니다.</li>
+</ol>
+<br><br><br><br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/82954812/165143006-c413e491-423f-4d26-a1ee-64313c698ef8.png"/>
+<ol>
+  <li></li>
+  <li></li>
+</ol>
+<br><br><br><br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/82954812/165143017-f3e286cd-51dc-4f5c-9f4e-b0d5d89a5ca8.png"/>
+<ol>
+  <li></li>
+  <li></li>
+</ol>
+<br><br><br><br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/82954812/165143028-a9343db4-c8f4-4a77-9e43-507a494753a5.png"/>
+<ol>
+  <li></li>
+  <li></li>
+</ol>
+<br><br><br><br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/82954812/165143038-b8b29cdb-bd50-4871-b81e-05600a295fe7.png"/>
+<ol>
+  <li></li>
+  <li></li>
 </ol>
 <br><br><br><br>
