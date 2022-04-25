@@ -39,14 +39,14 @@ This is about Ordinary Simple Board.
 </ol>
 <br><br><br><br>
 
-<img width="40%" src="https://user-images.githubusercontent.com/82954812/165143028-a9343db4-c8f4-4a77-9e43-507a494753a5.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/82954812/165143028-a9343db4-c8f4-4a77-9e43-507a494753a5.png"/>
 <ol>
   <li></li>
   <li></li>
 </ol>
 <br><br><br><br>
 
-<img width="40%" src="https://user-images.githubusercontent.com/82954812/165143038-b8b29cdb-bd50-4871-b81e-05600a295fe7.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/82954812/165143038-b8b29cdb-bd50-4871-b81e-05600a295fe7.png"/>
 <ol>
   <li></li>
   <li></li>
