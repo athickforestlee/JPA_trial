@@ -1,6 +1,6 @@
 # JPA_trial_board
 
-[JAVA, Thymeleaf, Springboot, JPA]
+[JAVA, Thymeleaf, Springboot, JPA, MariaDB]
 
 This is about Ordinary Simple Board.
 
