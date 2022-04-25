@@ -4,7 +4,7 @@ This is about Ordinary Simple Board.
 
 <h2>스프링부트를 이용한 간단 게시판 입니다.</h2>
 
-<img width="30%" src="https://user-images.githubusercontent.com/82954812/165142984-5b793008-b1bd-4490-853e-522feb1cc50b.png"/>
+<img width="10%" src="https://user-images.githubusercontent.com/82954812/165142984-5b793008-b1bd-4490-853e-522feb1cc50b.png"/>
 <ol>
   <li>게시판 기본 화면입니다.</li>
   <li>하나의 페이지당 10개의 게시물이 리스트 됩니다.</li>
